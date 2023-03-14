@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<LandingPage />} />
+        <Route path="/money-matters-newstack/" element={<LandingPage />} />
       </Routes>   
     </Router>
   );
