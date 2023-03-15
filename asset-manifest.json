@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/money-matters-newstack/static/css/main.28f8eeec.css",
-    "main.js": "/money-matters-newstack/static/js/main.9c1f8390.js",
+    "main.js": "/money-matters-newstack/static/js/main.db165eb2.js",
     "static/js/787.4bd001f6.chunk.js": "/money-matters-newstack/static/js/787.4bd001f6.chunk.js",
     "static/media/edge-banner-image.png": "/money-matters-newstack/static/media/edge-banner-image.5e98e193481f97f79384.png",
     "static/media/hero-banner-image.png": "/money-matters-newstack/static/media/hero-banner-image.00a9cfe051841b3fa5c0.png",
     "index.html": "/money-matters-newstack/index.html",
     "static/media/solo_logo.svg": "/money-matters-newstack/static/media/solo_logo.42a79b2a586d2b0154679d5df46381ba.svg",
     "main.28f8eeec.css.map": "/money-matters-newstack/static/css/main.28f8eeec.css.map",
-    "main.9c1f8390.js.map": "/money-matters-newstack/static/js/main.9c1f8390.js.map",
+    "main.db165eb2.js.map": "/money-matters-newstack/static/js/main.db165eb2.js.map",
     "787.4bd001f6.chunk.js.map": "/money-matters-newstack/static/js/787.4bd001f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28f8eeec.css",
-    "static/js/main.9c1f8390.js"
+    "static/js/main.db165eb2.js"
   ]
 }
