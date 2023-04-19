@@ -1,10 +1,9 @@
 {
-  "homepage": "https://ameyakhot.github.io/money-matters-newstack",
+  "homepage": "https://ameyakhot.github.io/money-matters-newstack/",
   "name": "money-matters",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.4.0",
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
